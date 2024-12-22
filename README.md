@@ -33,7 +33,7 @@ Matplotlib ve Seaborn
 
 # PROJE AŞAMALARI
 
-1. Veri Hazırlama
+1. Veri Hazırlama 
 
 Veri seti indirildi ve yeniden boyutlandırıldı.
 
