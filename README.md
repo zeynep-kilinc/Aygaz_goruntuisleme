@@ -67,13 +67,13 @@ Her manipülasyon sonrası model performansı test edildi.
 
 # SONUÇLAR
 
-# 1. Orijinal Test Seti
+1) Orijinal Test Seti
 Doğruluk (Accuracy): %67.00
-# 2. Manipüle Edilmiş Test Setleri
-# Bright Manipülasyonu:
+Manipüle Edilmiş Test Setleri
+2) Bright Manipülasyonu:
 Doğruluk (Accuracy): %64.31
 Renk Sabitliği Sonrası Doğruluk: %57.03
-# Dark Manipülasyonu:
+3) Dark Manipülasyonu:
 Doğruluk (Accuracy): %67.28
 Renk Sabitliği Sonrası Doğruluk: %61.54
 Genel Değerlendirme:
